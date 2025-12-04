@@ -1,0 +1,834 @@
+[
+  {
+    "time": 0.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 0.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 0.5333333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 1.0666666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 1.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 2.1333333333333333,
+    "actions": "reading book"
+  },
+  {
+    "time": 2.6666666666666665,
+    "actions": "reading book"
+  },
+  {
+    "time": 3.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 3.7333333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 4.266666666666667,
+    "actions": "reading book"
+  },
+  {
+    "time": 4.8,
+    "actions": "reading book"
+  },
+  {
+    "time": 5.333333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 5.866666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 6.4,
+    "actions": "laughing"
+  },
+  {
+    "time": 6.933333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 7.466666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 8.0,
+    "actions": "yoga"
+  },
+  {
+    "time": 8.533333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 9.066666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 9.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 10.133333333333333,
+    "actions": "trimming or shaving beard"
+  },
+  {
+    "time": 10.666666666666666,
+    "actions": "trimming or shaving beard"
+  },
+  {
+    "time": 11.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 11.733333333333333,
+    "actions": "stretching arm"
+  },
+  {
+    "time": 12.266666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 12.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 13.333333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 13.866666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 14.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 14.933333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 15.466666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 16.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 16.533333333333335,
+    "actions": "anomaly"
+  },
+  {
+    "time": 17.066666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 17.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 18.133333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 18.666666666666668,
+    "actions": "anomaly"
+  },
+  {
+    "time": 19.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 19.733333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 20.266666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 20.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 21.333333333333332,
+    "actions": "anomaly"
+  },
+  {
+    "time": 21.866666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 22.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 22.933333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 23.466666666666665,
+    "actions": "bartending"
+  },
+  {
+    "time": 24.0,
+    "actions": "bartending"
+  },
+  {
+    "time": 24.533333333333335,
+    "actions": "bartending"
+  },
+  {
+    "time": 25.066666666666666,
+    "actions": "bartending"
+  },
+  {
+    "time": 25.6,
+    "actions": "bartending"
+  },
+  {
+    "time": 26.133333333333333,
+    "actions": "bartending"
+  },
+  {
+    "time": 26.666666666666668,
+    "actions": "bartending"
+  },
+  {
+    "time": 27.2,
+    "actions": "bartending"
+  },
+  {
+    "time": 27.733333333333334,
+    "actions": "bartending"
+  },
+  {
+    "time": 28.266666666666666,
+    "actions": "bartending"
+  },
+  {
+    "time": 28.8,
+    "actions": "bartending"
+  },
+  {
+    "time": 29.333333333333332,
+    "actions": "anomaly"
+  },
+  {
+    "time": 29.866666666666667,
+    "actions": "yawning"
+  },
+  {
+    "time": 30.4,
+    "actions": "yawning"
+  },
+  {
+    "time": 30.933333333333334,
+    "actions": "yawning"
+  },
+  {
+    "time": 31.466666666666665,
+    "actions": "yawning"
+  },
+  {
+    "time": 32.0,
+    "actions": "yawning"
+  },
+  {
+    "time": 32.53333333333333,
+    "actions": "yawning"
+  },
+  {
+    "time": 33.06666666666667,
+    "actions": "yawning"
+  },
+  {
+    "time": 33.6,
+    "actions": "yawning"
+  },
+  {
+    "time": 34.13333333333333,
+    "actions": "yawning"
+  },
+  {
+    "time": 34.666666666666664,
+    "actions": "anomaly"
+  },
+  {
+    "time": 35.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 35.733333333333334,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 36.266666666666666,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 36.8,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 37.333333333333336,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 37.86666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 38.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 38.93333333333333,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 39.46666666666667,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 40.0,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 40.53333333333333,
+    "actions": "massaging person's head"
+  },
+  {
+    "time": 41.06666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 41.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 42.13333333333333,
+    "actions": "crying"
+  },
+  {
+    "time": 42.666666666666664,
+    "actions": "anomaly"
+  },
+  {
+    "time": 43.2,
+    "actions": "crying"
+  },
+  {
+    "time": 43.733333333333334,
+    "actions": "crying"
+  },
+  {
+    "time": 44.266666666666666,
+    "actions": "crying"
+  },
+  {
+    "time": 44.8,
+    "actions": "crying"
+  },
+  {
+    "time": 45.333333333333336,
+    "actions": "crying"
+  },
+  {
+    "time": 45.86666666666667,
+    "actions": "crying"
+  },
+  {
+    "time": 46.4,
+    "actions": "crying"
+  },
+  {
+    "time": 46.93333333333333,
+    "actions": "crying"
+  },
+  {
+    "time": 47.46666666666667,
+    "actions": "yoga"
+  },
+  {
+    "time": 48.0,
+    "actions": "yoga"
+  },
+  {
+    "time": 48.53333333333333,
+    "actions": "yoga"
+  },
+  {
+    "time": 49.06666666666667,
+    "actions": "stretching arm"
+  },
+  {
+    "time": 49.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 50.13333333333333,
+    "actions": "yoga"
+  },
+  {
+    "time": 50.666666666666664,
+    "actions": "yoga"
+  },
+  {
+    "time": 51.2,
+    "actions": "yoga"
+  },
+  {
+    "time": 51.733333333333334,
+    "actions": "yoga"
+  },
+  {
+    "time": 52.266666666666666,
+    "actions": "yoga"
+  },
+  {
+    "time": 52.8,
+    "actions": "yoga"
+  },
+  {
+    "time": 53.333333333333336,
+    "actions": "anomaly"
+  },
+  {
+    "time": 53.86666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 54.4,
+    "actions": "trimming or shaving beard"
+  },
+  {
+    "time": 54.93333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 55.46666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 56.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 56.53333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 57.06666666666667,
+    "actions": "whistling"
+  },
+  {
+    "time": 57.6,
+    "actions": "whistling"
+  },
+  {
+    "time": 58.13333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 58.666666666666664,
+    "actions": "anomaly"
+  },
+  {
+    "time": 59.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 59.733333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 60.266666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 60.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 61.333333333333336,
+    "actions": "bandaging"
+  },
+  {
+    "time": 61.86666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 62.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 62.93333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 63.46666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 64.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 64.53333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 65.06666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 65.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 66.13333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 66.66666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 67.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 67.73333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 68.26666666666667,
+    "actions": "tai chi"
+  },
+  {
+    "time": 68.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 69.33333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 69.86666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 70.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 70.93333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 71.46666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 72.0,
+    "actions": "spray painting"
+  },
+  {
+    "time": 72.53333333333333,
+    "actions": "spray painting"
+  },
+  {
+    "time": 73.06666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 73.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 74.13333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 74.66666666666667,
+    "actions": "spray painting"
+  },
+  {
+    "time": 75.2,
+    "actions": "spray painting"
+  },
+  {
+    "time": 75.73333333333333,
+    "actions": "spray painting"
+  },
+  {
+    "time": 76.26666666666667,
+    "actions": "spray painting"
+  },
+  {
+    "time": 76.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 77.33333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 77.86666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 78.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 78.93333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 79.46666666666667,
+    "actions": "answering questions"
+  },
+  {
+    "time": 80.0,
+    "actions": "answering questions"
+  },
+  {
+    "time": 80.53333333333333,
+    "actions": "answering questions"
+  },
+  {
+    "time": 81.06666666666666,
+    "actions": "using computer"
+  },
+  {
+    "time": 81.6,
+    "actions": "using computer"
+  },
+  {
+    "time": 82.13333333333334,
+    "actions": "answering questions"
+  },
+  {
+    "time": 82.66666666666667,
+    "actions": "using computer"
+  },
+  {
+    "time": 83.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 83.73333333333333,
+    "actions": "answering questions"
+  },
+  {
+    "time": 84.26666666666667,
+    "actions": "using computer"
+  },
+  {
+    "time": 84.8,
+    "actions": "using computer"
+  },
+  {
+    "time": 85.33333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 85.86666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 86.4,
+    "actions": "answering questions"
+  },
+  {
+    "time": 86.93333333333334,
+    "actions": "arranging flowers"
+  },
+  {
+    "time": 87.46666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 88.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 88.53333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 89.06666666666666,
+    "actions": "answering questions"
+  },
+  {
+    "time": 89.6,
+    "actions": "anomaly"
+  },
+  {
+    "time": 90.13333333333334,
+    "actions": "answering questions"
+  },
+  {
+    "time": 90.66666666666667,
+    "actions": "answering questions"
+  },
+  {
+    "time": 91.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 91.73333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 92.26666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 92.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 93.33333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 93.86666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 94.4,
+    "actions": "anomaly"
+  },
+  {
+    "time": 94.93333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 95.46666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 96.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 96.53333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 97.06666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 97.6,
+    "actions": "bookbinding"
+  },
+  {
+    "time": 98.13333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 98.66666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 99.2,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 99.73333333333333,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 100.26666666666667,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 100.8,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 101.33333333333333,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 101.86666666666666,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 102.4,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 102.93333333333334,
+    "actions": "shaking hands"
+  },
+  {
+    "time": 103.46666666666667,
+    "actions": "smoking"
+  },
+  {
+    "time": 104.0,
+    "actions": "anomaly"
+  },
+  {
+    "time": 104.53333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 105.06666666666666,
+    "actions": "anomaly"
+  },
+  {
+    "time": 105.6,
+    "actions": "playing saxophone"
+  },
+  {
+    "time": 106.13333333333334,
+    "actions": "anomaly"
+  },
+  {
+    "time": 106.66666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 107.2,
+    "actions": "anomaly"
+  },
+  {
+    "time": 107.73333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 108.26666666666667,
+    "actions": "anomaly"
+  },
+  {
+    "time": 108.8,
+    "actions": "anomaly"
+  },
+  {
+    "time": 109.33333333333333,
+    "actions": "anomaly"
+  },
+  {
+    "time": 109.86666666666666,
+    "actions": "using computer"
+  }
+]

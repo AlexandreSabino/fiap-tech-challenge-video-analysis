@@ -1,0 +1,12 @@
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+transformers==4.44.2
+
+opencv-python==4.10.0.84
+moviepy==1.0.3
+numpy==1.26.4
+scikit-learn==1.5.2
+jsonlines==4.0.0
+
