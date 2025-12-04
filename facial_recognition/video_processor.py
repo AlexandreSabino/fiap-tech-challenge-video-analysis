@@ -4,7 +4,6 @@ from deepface import DeepFace
 
 from process_frame import process_video
 
-
 def detect_faces_and_emotions(rgb_frame, frame, cv2):
     # detector_backend = opencv Não detectou rostos laterais
     # detector_backend = mediapipe melhorou muito em relação ao opencv, porem ainda perde muitos frames.
@@ -23,6 +22,7 @@ def detect_faces_and_emotions(rgb_frame, frame, cv2):
             if face['face_confidence'] > 0.6:
                 region = face['region']
                 x, y, w, h = region['x'], region['y'], region['w'], region['h']
+
                 dominant_emotion = face['dominant_emotion']
 
                 cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)

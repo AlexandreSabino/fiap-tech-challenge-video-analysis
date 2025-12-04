@@ -33,12 +33,9 @@ def predict_clip(frames):
 
     confidence = values[0].item()
 
-    # Pelo menos 20% de confiança no movimento detectado
-    if confidence > 0.20:
+    # Pelo menos 30% de confiança no movimento detectado
+    if confidence > 0.30:
         return model.config.id2label[indices.item()]
-    else:
-        return "anomaly"
-
 
 all_actions = process_clips(video_path=VIDEO_PATH, detect_action=predict_clip)
 with open(OUTPUT_JSON, "w") as f:
